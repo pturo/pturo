@@ -29,7 +29,6 @@ I'm a front-end developer from Poland :poland:
 - I'm currently working as an intern front-end developer, learning and contributing my efforts.
 - Exploring new technologies and recent updates.
 - Learning programming on my own.
-- In free time I like to read books, especially novels for teenagers and fanfictions -> [Felix, Net & Nika](http://rafalkosik.com/powiesci/felix-net-i-nika/) Polish series by Rafał Kosik. I'm an amateur writer myself and I like writing stories in my free time -> [Wolf's Den](https://wilczeq-wolfsden.web.app/).
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-turo%C5%84)
 
 ---
