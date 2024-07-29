@@ -29,7 +29,6 @@ I'm a front-end developer from Poland :poland:
 - I'm currently working as an intern front-end developer, learning and contributing my efforts.
 - Exploring new technologies and recent updates.
 - Learning programming on my own.
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-turo%C5%84)
 - MLP, wolves and funk music lover.
 - My personal website: https://turonpawel.pl
 - My fanfiction project website: (soon)
