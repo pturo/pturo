@@ -31,7 +31,6 @@ I'm a front-end developer from Poland :poland:
 - Learning programming on my own.
 - MLP, wolves and funk music lover.
 - My personal website: https://turonpawel.pl
-- My fanfiction project website: https://projekteq.pl
 
 ---
 
