@@ -27,7 +27,7 @@ I'm a front-end developer from Poland :poland:
 - Exploring new technologies and recent updates.
 - Learning programming on my own.
 - MLP, wolves and funk music lover.
-- My personal website: https://turonpawel.pl
+- My personal website (unavailable anymore)
 
 ---
 
