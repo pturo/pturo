@@ -16,7 +16,7 @@
 
 ### About Me
 
-I'm a front-end developer from Poland :poland:
+I'm a vibe coder from Poland :poland:
 
 - I'm currently working as an intern front-end developer, learning and contributing my efforts.
 - Exploring new technologies and recent updates.
